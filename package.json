@@ -1,6 +1,6 @@
 {
   "name": "hubot-skype",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Dominick D'Aniello",
   "keywords": [
     "github hubot skype adapter"
@@ -9,12 +9,12 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/netpro2/hubot-skype/raw/master/LICENSE"
+      "url": "http://github.com/unorthodoxgeek/hubot-skype/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/netpro2k/hubot-skype.git"
+    "url": "git://github.com/unorthodoxgeek/hubot-skype.git"
   },
   "dependencies": {
     "hubot": ">=2.0.5"
